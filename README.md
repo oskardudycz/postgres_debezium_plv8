@@ -1,4 +1,4 @@
-![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=oskardudycz&repository=eventsourcing.netcore)
+![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=oskardudycz&repository=postgres_debezium_plv8)
 
 # Docker with Debezium and PLV8
 
